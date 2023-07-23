@@ -1,5 +1,5 @@
 # IEEE CIS SOCIETY [ Lovely Professional University ]
-<img src="https://github.com/ieee-lpu-cis/ieee-lpu-cis/blob/main/ieee%20cis.jpeg" alt="IEEE CIS" title="IEEE CIS SOCIETY" width=700 >
+<img src="https://github.com/ieee-lpu-cis/ieee-lpu-cis/blob/main/Component%202.jpg" alt="IEEE CIS" title="IEEE CIS SOCIETY" width=700 height=300 >
 
 ## Vision
 
