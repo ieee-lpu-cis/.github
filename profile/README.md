@@ -1,4 +1,4 @@
-# IEEE CIS SOCIETY [ Lovely Professional University ]
+# IEEE CIS STUDENT CHAPTER [ Lovely Professional University ]
 <img src="https://github.com/ieee-lpu-cis/ieee-lpu-cis/blob/main/Component%202.jpg" alt="IEEE CIS" title="IEEE CIS SOCIETY" width=700 height=300 >
 
 ## Vision
